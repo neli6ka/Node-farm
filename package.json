@@ -7,7 +7,7 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  
+  "author": "Neli Kamenova",
   "license": "ISC",
   "dependencies": {
     "slugify": "^1.6.5"
